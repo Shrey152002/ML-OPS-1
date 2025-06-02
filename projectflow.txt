@@ -22,9 +22,7 @@
 
 
 
-z9etSurTlt8XUlMA      shreyashverma1511
 
-mongodb+srv://shreyashverma1511:<db_password>@cluster0.yosmgkc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 -------------------------------------- logging, exception and notebooks --------------------------------------
 14. Write the logger file and test it on demo.py
