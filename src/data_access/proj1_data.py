@@ -20,6 +20,8 @@ class Proj1Data:
             self.mongo_client = MongoDBClient(database_name=DATABASE_NAME)
         except Exception as e:
             raise MyException(e, sys)
+        
+  
 
     def export_collection_as_dataframe(self, collection_name: str, database_name: Optional[str] = None) -> pd.DataFrame:
         """
@@ -55,3 +57,11 @@ class Proj1Data:
 
         except Exception as e:
             raise MyException(e, sys)
+        
+        
+        
+        
+        
+        
+        
+        
